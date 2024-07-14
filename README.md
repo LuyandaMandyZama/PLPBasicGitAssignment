@@ -4,7 +4,7 @@ TASK 1 : REPOSITORY SETUP
 1.Opened a web browser and navigated to github.com and signed in
 2.Navigated to My Profile>My Repositories and clicked on the green icon
 3.Filled in the repository name( PLPBasicGitAssignment ),making the repository public and other required information and scrolled down and clicked on the checkbox labeled "Initialize with README"
-4.Clicked on the green button labeled "creste repository" and successfully created it!
+4.Clicked on the green button labeled "create repository" and successfully created it!
 
 TASK 2 : LOCAL SETUP
 1.Opened Git Bash and changed the directory to my local drive(cd c:/)
